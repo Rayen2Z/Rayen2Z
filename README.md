@@ -3,7 +3,7 @@
 
 - 🌱 I’m a junior Data Scientist.
 - 🧠 I have a Master's degree in Artificial Intelligence.
-- 📔 I love merging data and the latest AI technologies to help with decision-making and tell stories.
+- 📔 I love merging data and the latest AI technologies to help with decision-making and story telling.
 - 👯 I’m looking to collaborate on AI projects: ML, Deep Learning, NLP, Computer Vision, LLM, you name it 😜
 
 
