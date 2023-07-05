@@ -8,7 +8,7 @@
 
 
 ## Contact me on:
-[<img align="left" alt="abid" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.datascienceportfol.io/rayen_touzi))
+[<img align="left" alt="abid" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.datascienceportfol.io/rayen_touzi)
 [<img align="left" alt="abid | Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/df7db8a2c4c2605113121ee72f96ee678406d50d/icons/maildotru.svg" />](mailto:rayen.touzi@gmail.com)
 [<img align="left" alt="abid | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rayen-touzi/)
 
